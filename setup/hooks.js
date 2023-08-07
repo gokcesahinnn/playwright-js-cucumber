@@ -6,14 +6,14 @@ const cucumber = require('../cucumber');
 
 // Launch options.
 const options = {
-  headless: true,
+  headless: false,
   slowMo: 100
 };
 
 // Create a global browser for the test session.
 BeforeAll(async () => {
   console.log('before all ...');
-  global.browser = await playwright['firefox'].launch(options);
+  global.browser = await playwright[global.BROWSER_NAME].launch(options);
 });
 
 AfterAll(async () => {
