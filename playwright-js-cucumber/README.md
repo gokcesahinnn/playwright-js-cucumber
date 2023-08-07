@@ -12,4 +12,8 @@ This project is a basic framework to write E2E tests with Cucumber-JS v7 and Pla
   ` npm test `
 
 # Report
-  Cucumbber HTML Report (create reports folder) will be generated at the end of test execution with failed screenshot (if any) attached with the scenario. 
+  Cucumbber HTML Report (create reports folder) will be generated at the end of test execution with failed screenshot (if any) attached with the scenario.
+
+# Notes
+After the Playwright installation was completed, the steps in the feature were in an undefined state.
+I installed the [cucumber.js](https://plugins.jetbrains.com/plugin/7418-cucumber-js) plugin for its solution.

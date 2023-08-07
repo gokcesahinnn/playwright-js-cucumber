@@ -2,16 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cc21a48-b2a3-4d05-b1ca-99b8d3d07bc7" name="Changes" comment="Gerekli Duzenlemeler yapıldı">
-      <change afterPath="$PROJECT_DIR$/reports/cucumber_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cucumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/cucumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/hello.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup/hooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/setup/hooks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_Cucumber_TS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_Cucumber_TS/.idea/Playwright_Cucumber_TS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_Cucumber_TS/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_Cucumber_TS/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_Cucumber_TS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_Cucumber_TS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright_Cucumber_TS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/cucumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/page-objects/login-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/reporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/reports/cucumber_report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/setup/assertions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/setup/hooks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright-js-cucumber/step-definitions/login-step.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playwright_Cucumber_TS/old._config_cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playwright_Cucumber_TS/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cucumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-objects/login-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/cucumber_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assertions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/hooks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step-definitions/login-step.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +66,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2TdplTR7jSdIVGtdAaIW88AjlTh" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -51,6 +79,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
