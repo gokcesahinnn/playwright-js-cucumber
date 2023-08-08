@@ -1,9 +1,9 @@
 const { BeforeAll, Before, After, AfterAll, Status } = require('@cucumber/cucumber');
-const { launchBrowser, closeBrowser } = require('../browserManager');
+const { launchBrowser, closeBrowser } = require('../driverManager');
 
 BeforeAll(async () => {
     console.log('before all ...');
-    global.browser = await launchBrowser();
+    global.browser = await launchBrowser(global.BROWSER_NAME);
 });
 
 AfterAll(async () => {
