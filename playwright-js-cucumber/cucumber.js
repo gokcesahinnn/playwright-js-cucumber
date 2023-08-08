@@ -1,7 +1,7 @@
 const common = `
   --require config/config.js 
-  --require setup/assertions.js 
-  --require setup/hooks.js 
+  --require utilities/assertions.js 
+  --require utilities/hooks.js 
   --require features/step-definitions/*.js
 `;
 

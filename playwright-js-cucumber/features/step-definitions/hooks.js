@@ -1,5 +1,5 @@
 const { BeforeAll, Before, After, AfterAll, Status } = require('@cucumber/cucumber');
-const { launchBrowser, closeBrowser } = require('../driverManager');
+const { launchBrowser, closeBrowser } = require('../../utilities/driverManager');
 
 BeforeAll(async () => {
     console.log('before all ...');
